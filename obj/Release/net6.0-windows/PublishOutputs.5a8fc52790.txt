@@ -1,0 +1,5 @@
+G:\LTUD\VD\BTPTUD.exe
+G:\LTUD\VD\BTPTUD.dll
+G:\LTUD\VD\BTPTUD.deps.json
+G:\LTUD\VD\BTPTUD.runtimeconfig.json
+G:\LTUD\VD\BTPTUD.pdb
